@@ -1,0 +1,11 @@
+.button-container {
+    display: flex;
+}
+
+.update-button {
+    width: 110%; /* Set the width for the Update button */
+}
+
+.delete-button {
+    width: 110%; /* Set the width for the Delete button */
+}
